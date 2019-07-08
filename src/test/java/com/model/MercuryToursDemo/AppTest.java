@@ -26,6 +26,7 @@ public class AppTest
      */
     public static Test suite()
     {
+    System.out.println("Github is ready to use");
         return new TestSuite( AppTest.class );
     }
 
