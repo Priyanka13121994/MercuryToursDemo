@@ -10,14 +10,15 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+	
     /**
      * Create the test case
      *
      * @param testName name of the test case
      */
-    public AppTest( String testName )
+    public AppTest( String github )
     {
-        super( testName );
+        super( github );
     }
 
     /**
